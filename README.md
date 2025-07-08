@@ -57,6 +57,9 @@ Language translation is a complex task requiring understanding of both context a
 -Deploy the model using Streamlit or Flask as a web app
 
 ##  Author
+
 Aashima Bhatia
-Gmail: aashimabhatia2005@gmail.com
-LinkedIn: https://www.linkedin.com/in/aashima-bhatia-a30919300/
+
+**Gmail**: aashimabhatia2005@gmail.com
+
+**LinkedIn**: https://www.linkedin.com/in/aashima-bhatia-a30919300/
